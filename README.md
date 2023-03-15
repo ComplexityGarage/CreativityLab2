@@ -12,6 +12,7 @@
 - [Raspberry Pi official website](https://www.raspberrypi.com/)
 - [Raspberry Pi Zero W Basic - Botland](https://botland.com.pl/moduly-i-zestawy-raspberry-pi-zero/8741-zestaw-raspberry-pi-zero-w-basic-5903351240109.html)
 # 3D Printing
+- [Prusa 3D printers](https://www.prusa3d.com/pl)
 # Useful apps
 - [Tinkercad](https://www.tinkercad.com/)
 
