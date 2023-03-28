@@ -18,4 +18,6 @@
 - [Prusa 3D printers](https://www.prusa3d.com/pl)
 # Useful apps
 - [Tinkercad](https://www.tinkercad.com/)
-
+- [GNUTadio](https://www.gnuradio.org/)
+- [Wireshark](https://www.wireshark.org/)
+- [Fritzing](https://fritzing.org/)
