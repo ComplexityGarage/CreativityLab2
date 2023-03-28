@@ -9,6 +9,7 @@
 - [FM RADIO KIT - Kitronik 2157](https://botland.com.pl/roznosci/16119-zestaw-do-budowy-radia-diy-v20-kitronik-2157-5904422350987.html)
 # Fibers 
 - [Optical fiber - Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber)
+- [Bogdan Galwas, Podstawy telekomunikacji optofalowej - książka online](http://akademickaseriawwsi.wwsi.edu.pl/book-1.html)
 # Raspberry Pi 
 - [Raspberry Pi official website](https://www.raspberrypi.com/)
 - [Raspberry Pi Zero W Basic - Botland](https://botland.com.pl/moduly-i-zestawy-raspberry-pi-zero/8741-zestaw-raspberry-pi-zero-w-basic-5903351240109.html)
