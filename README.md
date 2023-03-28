@@ -7,6 +7,8 @@
 - [Software-defined radio (SDR)- Wikipedia](https://en.wikipedia.org/wiki/Software-defined_radio)
 - [RTL-SDR (RTL2832U) and software defined radio news and projects](https://www.rtl-sdr.com/)
 - [FM RADIO KIT - Kitronik 2157](https://botland.com.pl/roznosci/16119-zestaw-do-budowy-radia-diy-v20-kitronik-2157-5904422350987.html)
+- [How does Software Defined Radio (SDR) work under the Hood? SDR Tutorial - YT video](https://www.youtube.com/watch?v=xQVm-YTKR9s)
+
 # Fibers 
 - [Optical fiber - Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber)
 - [Bogdan Galwas, Podstawy telekomunikacji optofalowej - książka online](http://akademickaseriawwsi.wwsi.edu.pl/book-1.html)
