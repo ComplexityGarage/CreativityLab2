@@ -8,6 +8,7 @@
 - [RTL-SDR (RTL2832U) and software defined radio news and projects](https://www.rtl-sdr.com/)
 - [FM RADIO KIT - Kitronik 2157](https://botland.com.pl/roznosci/16119-zestaw-do-budowy-radia-diy-v20-kitronik-2157-5904422350987.html)
 # Fibers 
+- [Optical fiber - Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber)
 # Raspberry Pi 
 - [Raspberry Pi official website](https://www.raspberrypi.com/)
 - [Raspberry Pi Zero W Basic - Botland](https://botland.com.pl/moduly-i-zestawy-raspberry-pi-zero/8741-zestaw-raspberry-pi-zero-w-basic-5903351240109.html)
