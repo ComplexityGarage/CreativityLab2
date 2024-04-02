@@ -10,6 +10,7 @@
 - [Optical fiber - Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber)
 - [Bogdan Galwas, Podstawy telekomunikacji optofalowej - książka online](https://www.academia.edu/44921400/Podstawy_telekomunikacji_optofalowej)
 - [Fiberoptics Fundamentals|MIT Understanding Lasers and Fiberoptics  - YT video](https://www.youtube.com/watch?v=0DCrIAxEv_Y)
+- [Fiber optic cables (what you NEED to know) // FREE CCNA // EP 13](https://www.youtube.com/watch?v=E3DEJ7odWq0)
 # Antennas 
 - [An Introduction to Antenna Theory](https://nvhrbiblio.nl/biblio/boek/198-An-Introduction-to-Antenna-Theory.pdf)
 - [Introduction to Antennas](https://courses.egr.uh.edu/ECE/ECE3317/SectionJackson/Class%20Notes/Notes%2021%203317%20Introduction%20to%20Antennas.pdf)
