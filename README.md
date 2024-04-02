@@ -1,5 +1,6 @@
 # Ethernet cable 
-- [How to Wire Up Ethernet Plugs the EASY WAY!](https://www.youtube.com/watch?v=NWhoJp8UQpo)
+- [How to Wire Up Ethernet Plugs the EASY WAY! - YT video](https://www.youtube.com/watch?v=NWhoJp8UQpo)
+- [Forcing my kids to make Ethernet cables // FREE CCNA // EP 11 - YT video](https://www.youtube.com/watch?v=y8h5qY3zwic)
 - [Making Ethernet Cables](https://www.groundcontrol.com/us/knowledge/making-ethernet-cables-simple-and-easy/)
 - [Ethernet sniffing](https://hackaday.com/2011/02/18/sniff-ethernet-with-a-throwing-star/)
 # Raspberry Pi 
