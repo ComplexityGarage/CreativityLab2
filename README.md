@@ -16,7 +16,12 @@
 - [An Introduction to Antenna Theory](https://nvhrbiblio.nl/biblio/boek/198-An-Introduction-to-Antenna-Theory.pdf)
 - [Introduction to Antennas](https://courses.egr.uh.edu/ECE/ECE3317/SectionJackson/Class%20Notes/Notes%2021%203317%20Introduction%20to%20Antennas.pdf)
 - [NanoVNA](https://www.konektor5000.pl/index.php?p4509,nanovna-h-najmniejszy-analizator-antenowy-50khz-1500mhz-dotykowy-wyswietlacz-2-8-najnowsza-wersja-h)
-- [Smitch chart](https://en.wikipedia.org/wiki/Smith_chart) 
+- [Smitch chart](https://en.wikipedia.org/wiki/Smith_chart)
+- [How to properly use a NanoVNA V2 Vector Network Analyzer & Smith Chart (Tutorial) - YT video](https://www.youtube.com/watch?v=_pjcEKQY_Tk)
+- [Why doesn't a 75 Ohm cable measure 75 Ohms? - YT video](https://www.youtube.com/watch?v=a-8CaGOmWDU)
+- [Why don't Submarines use Radio or GPS?](https://www.youtube.com/watch?v=cPxYYwFiK0k)
+- [Cable Basics; Transmission, Reflection, Impedance Matching, TDR](https://www.youtube.com/watch?v=kOy0afN6lTs)
+- [Why 50 Ohms?](https://www.youtube.com/watch?v=g_KXwp7Reuc)
 # Radio
 - [Software-defined radio (SDR)- Wikipedia](https://en.wikipedia.org/wiki/Software-defined_radio)
 - [RTL-SDR (RTL2832U) and software defined radio news and projects](https://www.rtl-sdr.com/)
