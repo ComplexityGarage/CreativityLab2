@@ -8,7 +8,7 @@
 - [Raspberry Pi Zero W Basic - Botland](https://botland.com.pl/moduly-i-zestawy-raspberry-pi-zero/8741-zestaw-raspberry-pi-zero-w-basic-5903351240109.html)
 # Fibers 
 - [Optical fiber - Wikipedia](https://en.wikipedia.org/wiki/Optical_fiber)
-- [Bogdan Galwas, Podstawy telekomunikacji optofalowej - książka online](http://akademickaseriawwsi.wwsi.edu.pl/book-1.html)
+- [Bogdan Galwas, Podstawy telekomunikacji optofalowej - książka online](https://www.academia.edu/44921400/Podstawy_telekomunikacji_optofalowej)
 - [Fiberoptics Fundamentals|MIT Understanding Lasers and Fiberoptics  - YT video](https://www.youtube.com/watch?v=0DCrIAxEv_Y)
 # Antennas 
 - [An Introduction to Antenna Theory](https://nvhrbiblio.nl/biblio/boek/198-An-Introduction-to-Antenna-Theory.pdf)
