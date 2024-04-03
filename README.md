@@ -13,6 +13,7 @@
 - [Fiber optic cables (what you NEED to know) // FREE CCNA // EP 13 - YT video](https://www.youtube.com/watch?v=E3DEJ7odWq0)
 - [Fiber Optic Splicing Guide & Demo - YT video](https://www.youtube.com/watch?v=xba2MThR9Ls)
 # Antennas 
+- [Understanding Electromagnetic Radiation! - YT video](https://www.youtube.com/watch?v=FWCN_uI5ygY)
 - [An Introduction to Antenna Theory](https://nvhrbiblio.nl/biblio/boek/198-An-Introduction-to-Antenna-Theory.pdf)
 - [Introduction to Antennas](https://courses.egr.uh.edu/ECE/ECE3317/SectionJackson/Class%20Notes/Notes%2021%203317%20Introduction%20to%20Antennas.pdf)
 - [How does an Antenna work? - YT video](https://www.youtube.com/watch?v=ZaXm6wau-jc)
@@ -28,7 +29,10 @@
 - [RTL-SDR (RTL2832U) and software defined radio news and projects](https://www.rtl-sdr.com/)
 - [FM RADIO KIT - Kitronik 2157](https://botland.com.pl/roznosci/16119-zestaw-do-budowy-radia-diy-v20-kitronik-2157-5904422350987.html)
 - [How does Software Defined Radio (SDR) work under the Hood? SDR Tutorial - YT video](https://www.youtube.com/watch?v=xQVm-YTKR9s)
-
+# Space
+- [How does Satellite Television work? - YT video](https://www.youtube.com/watch?v=OpkatIqkLO8)
+- [The Worlds First Geostationary Satellite For Ham Radio - Es'Hail 2 - Qatar OSCAR-100 - YT video](https://www.youtube.com/watch?v=NgsnyETnjAs)
+- [SatNOGS - Open Source global network of satellite ground-stations](https://satnogs.org/)
 # 3D Printing
 - [Prusa 3D printers](https://www.prusa3d.com/pl)
 # Useful apps
