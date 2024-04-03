@@ -33,10 +33,10 @@
 - [How does Satellite Television work? - YT video](https://www.youtube.com/watch?v=OpkatIqkLO8)
 - [The Worlds First Geostationary Satellite For Ham Radio - Es'Hail 2 - Qatar OSCAR-100 - YT video](https://www.youtube.com/watch?v=NgsnyETnjAs)
 - [SatNOGS - Open Source global network of satellite ground-stations](https://satnogs.org/)
-# 3D Printing
-- [Prusa 3D printers](https://www.prusa3d.com/pl)
 # Useful apps
 - [Tinkercad](https://www.tinkercad.com/)
 - [GNURadio](https://www.gnuradio.org/)
 - [Wireshark](https://www.wireshark.org/)
 - [Fritzing](https://fritzing.org/)
+# 3D Printing
+- [Prusa 3D printers](https://www.prusa3d.com/pl)
