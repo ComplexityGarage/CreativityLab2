@@ -35,6 +35,7 @@
 - [SatNOGS - Open Source global network of satellite ground-stations](https://satnogs.org/)
 - [QO-100 Satellite Receiving Technology. And Explanation of a PLL- YT video](https://www.youtube.com/watch?v=9FM5HLqIRjk&)
 - [QO-100 Reach a geostationary satellite on Wi-Fi frequency? - YT video](https://www.youtube.com/watch?v=JbXaBDRQ-q0)
+- [How does Starlink Satellite Internet Work?- YT video](https://www.youtube.com/watch?v=qs2QcycggWU)
 # Useful apps
 - [Tinkercad](https://www.tinkercad.com/)
 - [GNURadio](https://www.gnuradio.org/)
