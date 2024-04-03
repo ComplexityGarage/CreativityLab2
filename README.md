@@ -15,6 +15,7 @@
 # Antennas 
 - [An Introduction to Antenna Theory](https://nvhrbiblio.nl/biblio/boek/198-An-Introduction-to-Antenna-Theory.pdf)
 - [Introduction to Antennas](https://courses.egr.uh.edu/ECE/ECE3317/SectionJackson/Class%20Notes/Notes%2021%203317%20Introduction%20to%20Antennas.pdf)
+- [How does an Antenna work? - YT video](https://www.youtube.com/watch?v=ZaXm6wau-jc)
 - [NanoVNA](https://www.konektor5000.pl/index.php?p4509,nanovna-h-najmniejszy-analizator-antenowy-50khz-1500mhz-dotykowy-wyswietlacz-2-8-najnowsza-wersja-h)
 - [Smitch chart](https://en.wikipedia.org/wiki/Smith_chart)
 - [How to properly use a NanoVNA V2 Vector Network Analyzer & Smith Chart (Tutorial) - YT video](https://www.youtube.com/watch?v=_pjcEKQY_Tk)
