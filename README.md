@@ -24,6 +24,7 @@
 - [Why don't Submarines use Radio or GPS?](https://www.youtube.com/watch?v=cPxYYwFiK0k)
 - [Cable Basics; Transmission, Reflection, Impedance Matching, TDR](https://www.youtube.com/watch?v=kOy0afN6lTs)
 - [Why 50 Ohms?](https://www.youtube.com/watch?v=g_KXwp7Reuc)
+- [ADS-B spider antanna](https://discussions.flightaware.com/t/three-easy-diy-antennas-for-beginners/16348/12)
 # Radio
 - [Software-defined radio (SDR)- Wikipedia](https://en.wikipedia.org/wiki/Software-defined_radio)
 - [RTL-SDR (RTL2832U) and software defined radio news and projects](https://www.rtl-sdr.com/)
