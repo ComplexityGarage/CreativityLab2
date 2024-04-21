@@ -26,6 +26,7 @@
 - [Why 50 Ohms?](https://www.youtube.com/watch?v=g_KXwp7Reuc)
 - [ADS-B spider antanna](https://discussions.flightaware.com/t/three-easy-diy-antennas-for-beginners/16348/12)
 # Radio
+- [Software Defined Radio (SDR) with HackRF](https://greatscottgadgets.com/sdr/)
 - [Software-defined radio (SDR)- Wikipedia](https://en.wikipedia.org/wiki/Software-defined_radio)
 - [RTL-SDR (RTL2832U) and software defined radio news and projects](https://www.rtl-sdr.com/)
 - [FM RADIO KIT - Kitronik 2157](https://botland.com.pl/roznosci/16119-zestaw-do-budowy-radia-diy-v20-kitronik-2157-5904422350987.html)
