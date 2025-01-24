@@ -25,6 +25,7 @@
 - [Cable Basics; Transmission, Reflection, Impedance Matching, TDR](https://www.youtube.com/watch?v=kOy0afN6lTs)
 - [Why 50 Ohms?](https://www.youtube.com/watch?v=g_KXwp7Reuc)
 - [ADS-B spider antanna](https://discussions.flightaware.com/t/three-easy-diy-antennas-for-beginners/16348/12)
+- 
 # Radio
 - [Software Defined Radio (SDR) with HackRF](https://greatscottgadgets.com/sdr/)
 - [Software-defined radio (SDR)- Wikipedia](https://en.wikipedia.org/wiki/Software-defined_radio)
@@ -35,6 +36,8 @@
 - [How does Satellite Television work? - YT video](https://www.youtube.com/watch?v=OpkatIqkLO8)
 - [The Worlds First Geostationary Satellite For Ham Radio - Es'Hail 2 - Qatar OSCAR-100 - YT video](https://www.youtube.com/watch?v=NgsnyETnjAs)
 - [SatNOGS - Open Source global network of satellite ground-stations](https://satnogs.org/)
+- [Omnidirectional Station How To](https://wiki.satnogs.org/Omnidirectional_Station_How_To)
+- [How to build a turnstile antenna for 435Mhz (and connect it to SatNOGS network) - tutorial for beginners](https://alicja.space/blog/how-to-build-turnstile-antenna#why)
 - [QO-100 Satellite Receiving Technology. And Explanation of a PLL- YT video](https://www.youtube.com/watch?v=9FM5HLqIRjk&)
 - [QO-100 Reach a geostationary satellite on Wi-Fi frequency? - YT video](https://www.youtube.com/watch?v=JbXaBDRQ-q0)
 - [How does Starlink Satellite Internet Work?- YT video](https://www.youtube.com/watch?v=qs2QcycggWU)
